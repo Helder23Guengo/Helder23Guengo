@@ -8,7 +8,7 @@
 - Especialista em Front-End:
 - 🎨 Transformo designs em experiências interativas e atraentes.
 
-- Proficiente em HTML, CSS, JavaScript e noções em PHP.
+- Proficiente em C, HTML, CSS AND TailwindCSS, JavaScript e noções em PHP.
 - Focado em criar interfaces de usuário intuitivas e responsivas.
 
 - 💻 Apaixonado por otimização de desempenho e segurança.
