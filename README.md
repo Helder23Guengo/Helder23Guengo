@@ -5,7 +5,7 @@
 - Especializado em desenvolvimento web, ecommerce e sistemas de gestão.
 - Criador de websites, aplicativos e startups.
 
-- Especialista em Front-End:
+- Especialista em Back-End & Front-End:
 - 🎨 Transformo designs em experiências interativas e atraentes.
 
 - Proficiente em C, HTML, CSS AND TailwindCSS, JavaScript e noções em PHP.
