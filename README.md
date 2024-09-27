@@ -1,19 +1,26 @@
-- 👋 Ola, meu nome é Helder Esteves Guengo
-- tecnico Informatico e Programador
 
-- ❤️ Apaixonado por criar soluções completas, desde o front-end até o back-end.
-- Especializado em desenvolvimento web, ecommerce e sistemas de gestão.
-- Criador de websites, aplicativos e startups.
-
-- Especialista em Back-End & Front-End:
-- 🎨 Transformo designs em experiências interativas e atraentes.
-
-- Proficiente em C, HTML, CSS AND TailwindCSS, JavaScript e noções em PHP.
-- Focado em criar interfaces de usuário intuitivas e responsivas.
-
-- 💻 Apaixonado por otimização de desempenho e segurança.
-
-<!---
-Helder23Guengo/Helder23Guengo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<pre>
+Hi! 👋, I'm <i>Gildo Komba.</i>
+Intra: <i>gkomba</i>
+<ul>
+   <li>🌱 I'm programming since 2024. The first programming language I learned was C. 
+   I'm currently studying at @42School in Luanda, Angola.
+   Here I'm posting some of the projects I do during my curriculum.</li>
+</ul>
+</pre>
+[![Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=gkomba&layout=compact&hide=roff&langs_count=8&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/gkomba)
+<p> Tech stack </p>
+<blockquote>
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,vim,linux,bash" />
+</blockquote>
