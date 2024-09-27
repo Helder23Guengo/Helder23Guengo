@@ -21,5 +21,5 @@ Intra: <i>hguengo</i>
 <p> Tech stack </p>
 <blockquote>
    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,vim,linux,bash,javascript,html,css" />
+      <img src="https://skillicons.dev/icons?i=c,javascript,html,css,php,vim,linux,bash" />
 </blockquote>
