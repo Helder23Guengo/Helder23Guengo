@@ -10,8 +10,8 @@
 - ⚡ Fun fact: ...
 -->
 <pre>
-Hi! 👋, I'm <i>Gildo Komba.</i>
-Intra: <i>gkomba</i>
+Hi! 👋, I'm <i>Helder Esteves Guengo.</i>
+Intra: <i>hguengo</i>
 <ul>
    <li>🌱 I'm programming since 2024. The first programming language I learned was C. 
    I'm currently studying at @42School in Luanda, Angola.
