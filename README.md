@@ -19,6 +19,8 @@ Intra: <i>hguengo</i>
    Here I'm posting some of the projects I do during my curriculum.</li>
 </ul>
 </pre>
+
+<hr style="background: rgb(100, 100, 150, 0.4); height: 2px; border: none;">
 <div align="center">
 
   | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Helder23Guengo&show_icons=true&locale=en&layout=compact&theme=dracula) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Helder23Guengo&show_icons=true&locale=en&theme=dracula) |
