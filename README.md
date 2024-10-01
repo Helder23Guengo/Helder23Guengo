@@ -9,20 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p float="center" align="center">
 
-  <a href="https://github.com/xmaj2001/42-piscine">
-    <img src="42/banners/profile/github_profile_banner_round_piscine_v1.png" width="265">
-  </a>
-  &nbsp;
-  <a href="https://github.com/xmaj2001/42-common-core">
-    <img src="42/banners/profile/creloaded2.png" width="265"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/xmaj2001/42-common-core">
-    <img src="42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
-  </a>
-</p>
 <pre>
 Hi! 👋, I'm <i>Helder Esteves Guengo.</i>
 Intra: <i>hguengo</i>
@@ -32,6 +19,11 @@ Intra: <i>hguengo</i>
    Here I'm posting some of the projects I do during my curriculum.</li>
 </ul>
 </pre>
+<div align="center">
+
+  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Helder23Guengo&show_icons=true&locale=en&layout=compact&theme=dracula) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Helder23Guengo&show_icons=true&locale=en&theme=dracula) |
+  | --- | --- |
+</div>
 <p> Tech stack </p>
 <blockquote>
    <a href="https://skillicons.dev">
