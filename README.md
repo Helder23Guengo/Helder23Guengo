@@ -9,6 +9,20 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p float="center" align="center">
+
+  <a href="https://github.com/xmaj2001/42-piscine">
+    <img src="42/banners/profile/github_profile_banner_round_piscine_v1.png" width="265">
+  </a>
+  &nbsp;
+  <a href="https://github.com/xmaj2001/42-common-core">
+    <img src="42/banners/profile/creloaded2.png" width="265"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/xmaj2001/42-common-core">
+    <img src="42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265"/>
+  </a>
+</p>
 <pre>
 Hi! 👋, I'm <i>Helder Esteves Guengo.</i>
 Intra: <i>hguengo</i>
